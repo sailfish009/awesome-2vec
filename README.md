@@ -174,6 +174,14 @@ Python: https://github.com/cemoody/lda2vec
 
 <hr>
 
+**llm2vec**
+
+Paper: https://arxiv.org/pdf/2404.05961
+
+Python: https://github.com/McGill-NLP/llm2vec
+
+<hr>
+
 **sentence2vec**
 
 Python: https://github.com/klb3713/sentence2vec
